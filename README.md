@@ -46,4 +46,4 @@ Attempting to map the input 1 2 3 4 to the output 4 2 3 1 ...
      The sequence of moves are: push push push push pop
      The input cannot be mapped to the output.
 
-Deliverables. Submit your .cpp source code file in a folder named assign10 in your csci133 folder. Make sure your compiled file name is assign10.
+Deliverables. Submit your .cpp source code file in a folder named assign10 in your csci133 folder. Make sure your compiled file name is assign9.
